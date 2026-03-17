@@ -4,4 +4,7 @@
  - React
  - Angular
  - python
+ - Java
+ - springboot
+ - open AI
   
