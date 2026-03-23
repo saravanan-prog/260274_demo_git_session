@@ -1,2 +1,3 @@
 hi kiran welcome to java class
 He is cse student
+He is clever
